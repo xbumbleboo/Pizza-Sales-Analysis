@@ -48,7 +48,7 @@ Các chỉ số được tính toán bằng **SQL**, sau đó trực quan hóa b
 ---
 
 ## Cách sử dụng
-1. Tải file dự án: [`Pizza_Sales_Analysis.pbix`](./Pizza_Sales_Analysis.pbix)  
+1. Tải file dự án: [`Pizza_Sales_Analysis.pbix`]([./Pizza_Sales_Analysis.pbix](https://github.com/xbumbleboo/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Analysis.pbix))  
 2. Mở bằng **Power BI Desktop** (phiên bản mới nhất)  
 3. Chọn tab **Report View** để xem toàn bộ dashboard tương tác  
 4. Có thể thay đổi filter hoặc slicer để xem chi tiết theo thời gian, loại pizza, kích cỡ,...
